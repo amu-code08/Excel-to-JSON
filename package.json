@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-xlsx",
+  "version": "1.0.0",
+  "description": "This program converts excel to json.",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amu Hata",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.18.11/xlsx-0.18.11.tgz"
+  }
+}
